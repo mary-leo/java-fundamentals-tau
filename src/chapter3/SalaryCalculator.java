@@ -24,7 +24,7 @@ public class SalaryCalculator {
 
         //Quick detour for the bonus earners
         if (sales >= quota) {
-            salary =  salary + bonus;
+            salary = salary + bonus;
         }
 
         //Output

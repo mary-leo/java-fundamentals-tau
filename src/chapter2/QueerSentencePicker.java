@@ -1,7 +1,7 @@
 package chapter2;
 
 // случий scanner.closeLine() после scanner.closeInt()
-git rebase
+
 import java.util.Scanner;
 
 public class QueerSentencePicker {
