@@ -21,6 +21,5 @@ public class HINTS {
     if(string1.equals(string2)) строки равны и важен регистр
     if(!string1.equals(string2)) строки не равны
     if(string1.equalsIgnoreCase9string2)) строки равны,но не важен регистр
-
      */
 }
