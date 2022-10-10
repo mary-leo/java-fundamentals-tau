@@ -21,6 +21,12 @@ public class LetterSearch {
         boolean letterFound = false;
 
         //Search text for letter A
+        //for (int i = text.length() - 1; i > 0 ; i--) {
+//        for (int i = 0; !letterFound && i < text.length(); i++) {
+//        char currentLetter = text.charAt(i);
+//        if (currentLetter == 'A' || currentLetter == 'a') {
+//            letterFound = true;
+//        }
         for (int i = 0; i < text.length(); i++) {
             char currentLetter = text.charAt(i);
             if (currentLetter == 'A' || currentLetter == 'a') {
