@@ -1,9 +1,8 @@
 package chapter4;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-/*
+/**
  * LOOP BREAK
  * Search a String to determine if it contains the letter 'A'.
  */

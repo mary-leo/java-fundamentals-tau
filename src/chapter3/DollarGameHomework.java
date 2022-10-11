@@ -1,6 +1,6 @@
 package chapter3;
 
-/* HOMEWORK CONCLUSION OF 3RD CHAPTER
+/** HOMEWORK CONCLUSION OF 3RD CHAPTER
 The objective of the game is to enter enough change to equal exactly $1!
 Create a program that asks a user to enter the quantities for the following coins:
 pennies, nickels, dimes, and quarters. Your program should count up the value of
@@ -10,7 +10,7 @@ how much they went over. If it's less than $1, tell them by how much they went u
 
 import java.util.Scanner;
 
-public class DollarGameConclusionOf3rdChapter {
+public class DollarGameHomework {
 
     public static void main(String[] args) {
 

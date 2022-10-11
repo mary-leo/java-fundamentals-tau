@@ -1,6 +1,6 @@
 package chapter3;
 
-/*
+/**
  * IF ELSE
  * All salespeople are expected to make at least 10 sales each week.
  * For those who do, they receive a congratulatory message.

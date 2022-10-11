@@ -1,6 +1,6 @@
 package chapter3;
 
-/*
+/**
  * IF-ELSE-IF
  * Display the letter grade for a student based on their test score.
  */

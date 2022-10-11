@@ -1,6 +1,6 @@
 package chapter4;
 
-/*
+/**
  * NESTED LOOPS:
  * Find the average of each student's test scores
  */

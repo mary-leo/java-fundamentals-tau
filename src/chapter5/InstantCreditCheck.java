@@ -1,14 +1,14 @@
 package chapter5;
 
-/*
+/**
  * VARIABLE SCOPE
  * Write an 'instant credit check' program that approves
  * anyone who makes more than $25,000 and has a credit score
  * of 700 or better. Reject all others.
  */
-//можно ли называт переменные в аргументах и параметрах методов одинаково?
-// Какие здесь бест-практис?
-//Преподка говорит и так и так можно
+//можно ли называт переменные в аргументах и параметрах методов одинаково? да
+// Какие здесь бест-практис? стобы было удобно читать и понимать
+//Преподка говорит и так и так можно. правильно
 
 import java.util.Scanner;
 

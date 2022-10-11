@@ -2,7 +2,7 @@ package chapter3;
 
 public class HINTS {
 
-    /*
+    /**
     выровнить код: command + option + L
 
     экранирование \
