@@ -3,6 +3,7 @@ package chapter7;
 import java.util.Random;
 
 public class LotteryTicket {
+    //for constants: caps and "final" - so, nobody can change it
     private static final int LENGTH = 6;
     private static final int MAX_TICKET_NUMBER = 69;
 
