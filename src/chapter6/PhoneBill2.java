@@ -1,10 +1,10 @@
 package chapter6;
 
 public class PhoneBill2 {
-    int id;
-    double baseCoast;
-    int allottedMinutes;
-    int usedMinutes;
+    private int id;
+    private double baseCoast;
+    private int allottedMinutes;
+    private int usedMinutes;
 
 
     //default constructor:
